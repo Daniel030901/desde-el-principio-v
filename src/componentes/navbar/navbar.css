@@ -1,0 +1,10 @@
+.Barra{
+    background-color: #232c3b;
+    width:100%;
+    height:60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 9999;
+}
