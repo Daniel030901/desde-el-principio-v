@@ -9,7 +9,9 @@ class navbar extends Component  {
         <img src={logo} alt="Smiley face" height="42" width="42"/>
         <h1>Happy Bone</h1>
         <button className="dropbtn">paracetamol</button>
+        
       </div>
+
     );
   }
 }
